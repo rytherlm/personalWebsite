@@ -17,7 +17,7 @@ const Footer = () => {
 						</li>
 						<li className="footer-nav-link-item">
 							<Link to="/projects">Projects</Link>
-						</li>
+						</li>2
 						<li className="footer-nav-link-item">
 							<Link to="/contact">Contact</Link>
 						</li>
